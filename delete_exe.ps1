@@ -1,0 +1,1 @@
+Get-ChildItem -Path . -Filter *.exe -Recurse | Remove-Item
